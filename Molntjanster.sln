@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{D66912EB-BADC-4EB6-87A5-C6544DF1BDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Molntjanster", "Molntjanster\Molntjanster.csproj", "{D94B46FC-F085-4C93-9092-90BD0138AACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66912EB-BADC-4EB6-87A5-C6544DF1BDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66912EB-BADC-4EB6-87A5-C6544DF1BDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66912EB-BADC-4EB6-87A5-C6544DF1BDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66912EB-BADC-4EB6-87A5-C6544DF1BDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94B46FC-F085-4C93-9092-90BD0138AACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94B46FC-F085-4C93-9092-90BD0138AACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94B46FC-F085-4C93-9092-90BD0138AACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94B46FC-F085-4C93-9092-90BD0138AACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27203B14-8179-49CE-93E7-C5DECE411B0F}
+	EndGlobalSection
+EndGlobal

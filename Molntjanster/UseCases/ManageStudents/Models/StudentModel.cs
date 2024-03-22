@@ -4,6 +4,6 @@
     {
         public string? StudentName { get; init; }
         public string? Email { get; init; }
-        public string? Examination { get; } = "Examination 2";
+        public string? Examination { get; } = "Examination 3";
     }
 }
